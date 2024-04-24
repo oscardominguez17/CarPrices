@@ -39,7 +39,9 @@ We will be working on a data set of 426K records that have been given to us in c
     * There are 12 Colors, the most popular is white.
     * There are 51 states and this is a Categorical Feature (Nominal)
 * In this process we were able to identify nominal and ordinal features.
-![](images/dataUnderstanding/carsByPrice.png)
+* Review Car prices
+  * ![](images/dataUnderstanding/carsByPrice.png)
+
 ### Data Preparation
 
 In the process of Data preparing we went through several steps:
