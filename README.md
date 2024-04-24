@@ -22,7 +22,7 @@ We will be working on a data set of 426K records that have been given to us in c
 
 * Identify important information about how many rows and columns we have to process, what kind of column types we have.
 * We explore how many null values we have and what percentage they have within each feature.
-  * <img src="images/dataUnderstanding/nulls.png" alt="Nulls Per File" width="700" height="900">
+  * <img src="images/dataUnderstanding/nulls.png" alt="Nulls Per File" width="500" height="600">
 * We continue exploring each column to know what values we have and how they are distributed
     * Year Information:
       * We can see that most of the Cars are from 1990 to 2019
