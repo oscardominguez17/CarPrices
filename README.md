@@ -1,7 +1,5 @@
 # What drives the price of a car?
 
-![](images/kurt.jpeg)
-
 
 ![](images/kurt.jpeg)
 
