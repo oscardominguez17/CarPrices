@@ -60,12 +60,12 @@ I evaluated the following models by obtaining the MSE for the training and test 
 
 ![](images/dataUnderstanding/models.png)
 
-First I started by splitting the data with the train_test_split in test and training data. Once I have done that, I applied the Simple Linear Regression model, I got the following results. 
+First I started by splitting the data with the train_test_split in test and training data. Once I have done that, I applied the Simple Linear Regression model, I got the following results.
   Train MSE:  0.71
   Test MSE:  0.71
 
 Later I tested a model with Cross Validation, the best degree for the polinomial features was 3
-  Train MSE 0.48	
+  Train MSE 0.48
   Test MSE: 0.47
 
 I then implemented a Ridge regression model using GridSearch to find the best alpha was 10
@@ -115,3 +115,9 @@ Manufacturer: The top 3 manufacturers that have cars with high prices are Ford, 
 Cylinders: 6 and 8 cylinder cars have almost the entire percentage of the relationship with high priced vehicles
 
 ![](images/dataUnderstanding/cylinders.png)
+
+### Next steps
+
+* Analyze information with more complex models
+
+* Each car dealership can refine their vehicle repertoire with the goal of having cars that generate greater profits.
